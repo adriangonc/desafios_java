@@ -29,14 +29,7 @@ public class RenameRepeatedStrings {
 		for(String name : renamedUsers ) {
 			System.out.println(name); //Imprime elementos renomeados
 		}
-		
-		//Testes
-		//System.out.println(usersMap.get("Sara"));
-		//System.out.println(usersMap.get("Adriano"));
-		//System.out.println(usersMap.get("Mario"));
-		//System.out.println(usersMap.get("Cratos"));
+
 	}	
-	
-	
 
 }
