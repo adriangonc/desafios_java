@@ -3,7 +3,7 @@ package com.desafios.concatandcount;
 public class ConcatAndCountString {
 
 	public static void main(String[] args) {
-		System.out.println(repeatedString("aba", 10));
+		System.out.println(repeatedString("abafaystudfuaysasdgfasdfasdf", 20));
 	}
 
 	static long repeatedString(String s, long n) {
@@ -23,7 +23,6 @@ public class ConcatAndCountString {
 				count++;
 			}
 		}
-
 		return count;
 	}
 
